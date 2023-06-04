@@ -68,11 +68,9 @@ uci set ua2f.firewall.handle_intranet=1
 # 保存配置
 uci commit ua2f
 
-操作：# 开机自启
+# 开机自启
 service ua2f enable
 # 启动ua2f
 service ua2f start
-
-uci commit
 
 exit 0
