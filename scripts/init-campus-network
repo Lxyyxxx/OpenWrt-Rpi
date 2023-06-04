@@ -73,9 +73,6 @@ service ua2f enable
 # 启动ua2f
 service ua2f start
 
-# 手动关闭ua2f
-service ua2f stop
-
 uci commit
 
 exit 0
