@@ -1,3 +1,8 @@
+1. [使用 Actions 需要设置 write 权限](https://github.com/ncipollo/release-action/issues/208) (Settings --> Action --> General --> Workflow permissions)
+2. [添加了 UA 和 IPID 修改包](https://github.com/EOYOHOO/Campus-network)
+
+---
+
 # [OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 ## 仓库存档说明
